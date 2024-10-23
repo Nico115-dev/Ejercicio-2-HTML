@@ -46,8 +46,10 @@ body {
     padding: 5px;
 }
 
-.img{
+img{
     border: 5px solid black;
     margin: 5px;
     border-radius: 50%;
+    height: 65%;
+    width: 65%;
 }
