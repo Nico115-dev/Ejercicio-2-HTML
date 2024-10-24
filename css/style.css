@@ -31,7 +31,7 @@ body {
     border: 2px solid black; 
     margin: 10px;
     padding: 20px; 
-    background-color: rgba(243, 245, 247, 0.9);
+    background-color: rgba(243, 245, 247, 0.5);
     box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1); 
 }
 
@@ -55,11 +55,11 @@ img {
     margin-bottom: 10px
 }
 
-.tarjeta3, .tarjeta2, .tarjeta4, .tarjeta5, .tarjeta6 {
+.tarjeta3, .tarjeta2, .tarjeta4, .tarjeta5, .tarjeta6, .tarjeta {
     border: 2px solid black; 
     padding: 5px;            
     margin-top: 10px;       
-    background-color: rgba(255, 255, 255, 0.9);
+    background-color: rgba(255, 255, 255, 0.5);
     justify-content: center;
     text-align: center;
 }
